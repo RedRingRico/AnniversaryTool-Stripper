@@ -1,0 +1,9 @@
+# Anniversary Tool ~ Stripper
+# README
+
+# OVERVIEW
+Stripper is a tool comprised of a model viewer and Blender exporter plug-in.
+
+Models are converted to triangle stripped versions which are the only format
+supported by the SEGA Dreamcast's Kamui 2 API.
+
